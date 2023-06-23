@@ -11,6 +11,7 @@ Using SeparableConv2D, BatchNormalization, GlobalAveragePooling2D, and data augm
 ![image](https://github.com/phamvoquoclong/Cat-And-Dog/assets/136946649/9497ac1d-b87e-480b-9c19-048f808ace9f)
 
 **Evaluation**  
-![image](https://github.com/phamvoquoclong/Cat-And-Dog/assets/136946649/004c3d8d-05d3-4569-b370-24ffb12364af)
-Test accuracy: 0.954
-Test loss: 0.119
+![image](https://github.com/phamvoquoclong/Cat-And-Dog/assets/136946649/089d245e-e383-40c7-a1c9-bbcbfa582128)
+
+Test accuracy: 0.963
+Test loss: 0.0958
