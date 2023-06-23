@@ -2,7 +2,7 @@
 
 **Introduction**  
 Data for this project from cat and dog competition on Kagle, which I download directly to Google Colab.  
-Using SeparableConv2D, BatchNormalization, GlobalAveragePooling2D, and data augmentation builds a classifier whose accuracy is 0.95.  
+Using SeparableConv2D, BatchNormalization, GlobalAveragePooling2D, and data augmentation builds a classifier whose accuracy is 0.96.  
 
 **Sample Images**  
 ![image](https://github.com/phamvoquoclong/Cat-And-Dog/assets/136946649/ad171a26-976e-4996-ac1b-72c68fa55735)
